@@ -19,7 +19,7 @@ A Tutorial has been uploaded on YouTube, Watch it by clicking on the image down 
 
 [![Advanced Discord Music Bot with Web Dashboard | Spotify Support](https://img.youtube.com/vi/p4lP96Tiv9s/maxresdefault.jpg)](https://www.youtube.com/watch?v=p4lP96Tiv9s)
 
-Repl.it [Tutorial](https://github.com/SudhanPlayz/Discord-MusicBot/wiki/Installation-on-Repl-it)
+Repl.it [Tutorial](https://github.com/pikachuBotDeveloper/Discord-MusicBot/wiki/Installation-on-Repl-it)
 
 VPS / Server [Tutorial](https://github.com/SudhanPlayz/Discord-MusicBot/wiki/Installation-on-a-Linux-server)
 
@@ -46,7 +46,7 @@ If you have major coding issues with this bot, please join and ask for help.
 
 Contributions are always welcomed :D Make sure to follow [Contributing.md](/CONTRIBUTING.md)
 
-<a href="https://github.com/SudhanPlayz/Discord-MusicBot/graphs/contributors">
+<a href="https://github.com/pikachuBotDeveloper/Discord-MusicBot/graphs/contributors">
   <img src="https://contributors-img.web.app/image?repo=SudhanPlayz/Discord-MusicBot" />
 </a>
 
